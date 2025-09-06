@@ -1,4 +1,7 @@
 {
+  "engines": {
+  "node": "18.x"
+},
   "name": "react-vite-portfolio",
   "private": true,
   "version": "1.0.0",
